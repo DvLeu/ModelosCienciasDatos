@@ -3,6 +3,9 @@ import matplotlib.pyplot as plt
 
 def cargar_datos(ruta):
     return pd.read_csv(ruta)
+#? Implementacion futura : 
+# def borrar_datos(ruta):
+    # delete(ruta)
 
 def manejo_datos(df):
     print("Primeras filas del DataFrame:")
