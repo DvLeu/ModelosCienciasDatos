@@ -1,0 +1,61 @@
+id_alumno,nombre,carrera,genero,materia,calificacion,faltas
+1,Alumno_1,Industrial,F,Bases de Datos,69.4,
+2,Alumno_2,Gestión,M,Bases de Datos,76.7,6.0
+3,Alumno_3,TI,F,Bases de Datos,72.8,1.0
+4,Alumno_4,Gestión,F,Bases de Datos,75.5,1.0
+5,Alumno_5,Industrial,F,Programación,90.9,5.0
+6,Alumno_6,Gestión,F,Programación,68.4,3.0
+7,Alumno_7,Industrial,M,Bases de Datos,78.7,8.0
+8,Alumno_8,TI,F,Estadística,80.7,9.0
+9,Alumno_9,Industrial,F,Bases de Datos,86.6,6.0
+10,Alumno_10,Gestión,F,Estadística,65.4,4.0
+11,Alumno_11,Electrónica,M,Programación,,5.0
+12,Alumno_12,TI,F,Programación,82.3,2.0
+13,Alumno_13,Industrial,M,Bases de Datos,86.7,6.0
+14,Alumno_14,TI,F,Estadística,78.7,0.0
+15,Alumno_15,TI,F,Redes,61.6,9.0
+16,Alumno_16,Industrial,M,Redes,71.5,3.0
+17,Alumno_17,TI,M,Redes,0.0,9.0
+18,Alumno_18,Industrial,M,Programación,78.4,5.0
+19,Alumno_19,TI,M,Bases de Datos,77.5,3.0
+20,Alumno_20,Industrial,M,Matemáticas,95.9,6.0
+21,Alumno_21,TI,F,Programación,100.0,6.0
+22,Alumno_22,Electrónica,F,Estadística,77.6,1.0
+23,Alumno_23,TI,F,Programación,97.3,4.0
+24,Alumno_24,Industrial,M,Bases de Datos,58.1,2.0
+25,Alumno_25,Electrónica,M,Matemáticas,57.5,6.0
+26,Alumno_26,Industrial,F,Redes,86.7,
+27,Alumno_27,Industrial,F,Bases de Datos,75.4,0.0
+28,Alumno_28,Gestión,F,Estadística,,5.0
+29,Alumno_29,TI,M,Estadística,83.2,6.0
+30,Alumno_30,Industrial,F,Matemáticas,77.1,1.0
+31,Alumno_31,Gestión,M,Programación,84.8,7.0
+32,Alumno_32,TI,M,Matemáticas,79.5,9.0
+33,Alumno_33,TI,F,Redes,62.7,4.0
+34,Alumno_34,Industrial,M,Bases de Datos,80.2,4.0
+35,Alumno_35,Gestión,M,Bases de Datos,79.9,9.0
+36,Alumno_36,Electrónica,M,Estadística,96.3,2.0
+37,Alumno_37,Gestión,M,Estadística,66.7,3.0
+38,Alumno_38,Electrónica,M,Bases de Datos,78.2,8.0
+39,Alumno_39,Electrónica,M,Bases de Datos,73.8,7.0
+40,Alumno_40,TI,F,Estadística,76.7,4.0
+41,Alumno_41,Industrial,F,Bases de Datos,94.6,5.0
+42,Alumno_42,Gestión,F,Programación,81.8,2.0
+43,Alumno_43,TI,F,Programación,73.4,7.0
+44,Alumno_44,Gestión,M,Bases de Datos,79.5,2.0
+45,Alumno_45,Gestión,F,Programación,85.7,6.0
+46,Alumno_46,Electrónica,M,Redes,68.1,4.0
+47,Alumno_47,Industrial,M,Redes,75.4,2.0
+48,Alumno_48,Gestión,F,Estadística,93.4,6.0
+49,Alumno_49,Electrónica,M,Redes,86.6,1.0
+50,Alumno_50,Industrial,M,Redes,77.6,2.0
+51,Alumno_51,Gestión,M,Estadística,73.2,2.0
+52,Alumno_52,TI,M,Matemáticas,76.5,5.0
+53,Alumno_53,Industrial,F,Programación,0.0,1.0
+54,Alumno_54,Electrónica,F,Redes,87.4,4.0
+55,Alumno_55,Gestión,M,Estadística,81.4,4.0
+56,Alumno_56,Gestión,M,Redes,79.4,6.0
+57,Alumno_57,Gestión,F,Matemáticas,65.0,2.0
+58,Alumno_58,TI,M,Matemáticas,70.9,6.0
+59,Alumno_59,TI,F,Redes,83.1,0.0
+60,Alumno_60,TI,M,Redes,80.6,0.0
